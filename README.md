@@ -32,4 +32,9 @@
   <a href="https://www.linkedin.com/in/igorgomesads" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/wizardigor/wizardigor/blob/output/github-contribution-grid-snake.svg)
+  
+  ## Total de visitas no meu perfil: detetive: <br>
+ <p align = "center"> 
+   <img alingn = "center" src = "https://profile-counter.glitch.me/wizardigor/count.svg" />
+ </p>
 </div>
