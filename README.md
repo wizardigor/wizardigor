@@ -1,4 +1,7 @@
 # Olá Sou Igor Gomes, criador de conteúdo de programação!
+
+**<a href="https://wizardigor.github.io/igorgomes-eti" target="_blank">Visite a página índice</a>**
+
 <div align="center">
   <a href="https://github.com/wizardigor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wizardigor&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
