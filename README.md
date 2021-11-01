@@ -8,11 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wizardigor&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardigor&layout=compact&langs_count=7&theme=ligth"/>
 </div>
-
-
- # Participe você tambem
-  [![image](https://user-images.githubusercontent.com/51889513/139497449-36bb8df5-5db4-4fb4-aaf5-afbcaf0ee508.png)](https://vrlps.co/C7O8ml3/cp)
-#DigitalInovationOne #DIO #makethechange
   
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Igor Gomes ETI-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
