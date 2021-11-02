@@ -5,12 +5,13 @@
 
 <div align="center">
   <a href="https://github.com/wizardigor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wizardigor&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardigor&layout=compact&langs_count=7&theme=ligth"/>
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wizardigor&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardigor&layout=compact&langs_count=7&theme=ligth"/>
+  </a>
+ </div>
   
 <div style="display: inline_block" align="center"><br>
-<img align="center" alt="Igor Gomes ETI-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="Igor Gomes ETI-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Igor Gomes ETI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor Gomes ETI-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor Gomes ETI-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,7 +27,12 @@
   <img align="center" alt="Igor Gomes ETI-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
   
-  ##
+<div style="display: inline_block" align="center"><br>
+   <a href="https://igorgomes.eti.br">  
+      <img align="center" alt="Igor Gomes ETI - site" width="200" src="https://user-images.githubusercontent.com/51889513/138512526-05ef6818-49a7-4f5a-a16f-ffef43b26ee5.jpg" />
+  </a>
+</div>
+
  
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCDfKJZnzItY6AyUzDCv9rtw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
