@@ -44,7 +44,7 @@
  
   ![Snake animation](https://github.com/wizardigor/wizardigor/blob/output/github-contribution-grid-snake.svg)
   
-  ## Total de visitas no meu perfil: detetive: <br>
+  ## Total de visitas no meu perfil:<br>
  <p align = "center"> 
    <img alingn = "center" src = "https://profile-counter.glitch.me/wizardigor/count.svg" />
  </p>
