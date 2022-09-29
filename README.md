@@ -3,8 +3,8 @@
 **<a href="https://wizardigor.github.io/igorgomes-eti" target="_blank">Visite a página índice</a>**
 
 <div align="center">
-  🎉<a href="https://dev.to/badge/hacktoberfest-2021">
-    <img height="180em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png"/>  🎉
+  🎉<a href="https:hacktoberfest.com">
+    <img height="180em" src="https://user-images.githubusercontent.com/51889513/192919634-427409a7-307e-4bdb-bccd-518b5f706dfb.jpg"/>  🎉
  </div>
 
  
