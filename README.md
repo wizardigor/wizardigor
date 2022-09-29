@@ -7,7 +7,8 @@
     <img height="180em" src="https://user-images.githubusercontent.com/51889513/192919634-427409a7-307e-4bdb-bccd-518b5f706dfb.jpg"/>  🎉
  </div>
 
- 
+ [![@wizardigor's Holopin board](https://holopin.io/api/user/board?user=wizardigor)](https://holopin.io/@wizardigor)
+
 <div align="center">
   <a href="https://github.com/wizardigor">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wizardigor&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
