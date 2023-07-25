@@ -2,7 +2,9 @@
 
 **<a href="https://wizardigor.github.io/igorgomes-eti" target="_blank">Visite a página índice</a>**
 
+
 <div align="center">
+  <img height="180em" src="https://github.com/wizardigor/wizardigor/assets/51889513/561e4920-3dde-4f77-9043-13de9de397b3"/>
   🎉<a href="https:hacktoberfest.com">
     <img height="180em" src="https://user-images.githubusercontent.com/51889513/192919634-427409a7-307e-4bdb-bccd-518b5f706dfb.jpg"/>  🎉
  </div>
