@@ -1,4 +1,4 @@
-# Olá Sou Igor Gomes, criador de conteúdo de programação!
+# Olá Sou Igor Gomes, Analista de Sistemas!
 
 **<a href="https://wizardigor.github.io/igorgomes-eti" target="_blank">Visite a página índice</a>**
 
