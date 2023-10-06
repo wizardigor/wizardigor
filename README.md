@@ -6,7 +6,7 @@
 <div align="center">
   <img height="180em" src="https://github.com/wizardigor/wizardigor/assets/51889513/561e4920-3dde-4f77-9043-13de9de397b3"/>
   🎉<a href="https:hacktoberfest.com">
-    <img height="180em" src="https://user-images.githubusercontent.com/51889513/192919634-427409a7-307e-4bdb-bccd-518b5f706dfb.jpg"/>  🎉
+    <img height="180em" src="https://user-images.githubusercontent.com/51889513/273242250-64b2ef3f-7a58-46e1-b125-0697912a41f8.png"/>  🎉
  </div>
 
  [![@wizardigor's Holopin board](https://holopin.io/api/user/board?user=wizardigor)](https://holopin.io/@wizardigor)
