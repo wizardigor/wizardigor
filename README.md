@@ -9,7 +9,7 @@
     <img height="180em" src="https://user-images.githubusercontent.com/51889513/273242250-64b2ef3f-7a58-46e1-b125-0697912a41f8.png"/>  🎉
  </div>
 
- [![@wizardigor's Holopin board](https://holopin.io/api/user/board?user=wizardigor)](https://holopin.io/@wizardigor)
+[![An image of @wizardigor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wizardigor)](https://holopin.io/@wizardigor)
 
 <div align="center">
   <a href="https://github.com/wizardigor">
